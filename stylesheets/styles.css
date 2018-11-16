@@ -39,7 +39,7 @@ body {
     transform-origin:top;    
 
     animation-name: shadow-x;
-    animation-duration: 500ms;
+    animation-duration: 300ms;
     animation-timing-function: linear;
 }
 #center:hover::before {
@@ -62,7 +62,7 @@ body {
     transform-origin: bottom;
 
     animation-name: shadow-y;
-    animation-duration: 500ms;
+    animation-duration: 300ms;
     animation-timing-function: linear;
 }
 
